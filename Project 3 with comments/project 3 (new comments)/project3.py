@@ -2,7 +2,7 @@ from graphics import *
 from time import sleep
 import random
 #
-# Jacob Campbell, 0029577483 | Alex Lara, 0028587102  - CS 177
+# Jacob Campbell, Alex Lara
 # project3.py
 # This program allows the user to play a game of tic-tac-toe
 # with another user or with the computer. New Features include
